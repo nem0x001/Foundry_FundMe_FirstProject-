@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@chainlink/styleguide": "^0.0.4"
+  }
+}
